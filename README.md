@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 -->
 
 Skills
+
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
