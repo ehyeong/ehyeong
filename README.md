@@ -30,3 +30,5 @@ Skills
 <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=Unreal Engine&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
 
+
+![Hyunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehyeong&show_icons=true&theme=radical)
