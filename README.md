@@ -24,4 +24,4 @@ Skills
 <img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=flat&logo=Adobe InDesign&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat&logo=Adobe XD&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML&logoColor=white"/>
