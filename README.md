@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+<!--
 
 ![Hyunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehyeong&show_icons=true&theme=transparent)
 
@@ -42,3 +42,5 @@ Study 💻
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
 
 </div>
+
+-->
